@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: blanchedalmond;
+    width: 300px;
+    height: 100vh;
+}
+#main{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    text-align: center;
+    border: 2px solid darkgray;
+}
+#h1{
+    position: relative;
+}
+#m1{
+    position: absolute;
+    left: 100%;
+    top: 0;
+    list-style-type: none;
+    background-color: aqua;
+    display: none;
+}
+#h1:hover #m1{
+    display: block;
+}
+#h2{
+    position: relative;
+}
+#m2{
+    position: absolute;
+    left: 100%;
+    top: 0;
+    list-style-type: none;
+    background-color: aqua;
+    display: none;
+}
+#h2:hover #m2{
+    display: block;
+}
+#h3{
+    position: relative;
+}
+#m3{
+    position: absolute;
+    left: 100%;
+    top: 0;
+    list-style-type: none;
+    background-color: aqua;
+    display: none;
+}
+#h3:hover #m3{
+    display: block;
+}
+#h4{
+    position: relative;
+}
+#m4{
+    position: absolute;
+    left: 100%;
+    top: 0;
+    list-style-type: none;
+    background-color: aqua;
+    display: none;
+}
+#h4:hover #m4{
+    display: block;
+}
+#h5{
+    position: relative;
+}
+#m5{
+    position: absolute;
+    left: 100%;
+    top: 0;
+    list-style-type: none;
+    background-color: aqua;
+    display: none;
+}
+#h5:hover #m5{
+    display: block;
+}
+#h6{
+    position: relative;
+}
+#m6{
+    position: absolute;
+    left: 100%;
+    top: 0;
+    list-style-type: none;
+    background-color: aqua;
+    display: none;
+}
+#h6:hover #m6{
+    display: block;
+}
+#h7{
+    position: relative;
+}
+#m7{
+    position: absolute;
+    left: 100%;
+    top: 0;
+    list-style-type: none;
+    background-color: aqua;
+    display: none;
+}
+#h7:hover #m7{
+    display: block;
+}
+#h8{
+    position: relative;
+}
+#m8{
+    position: absolute;
+    left: 100%;
+    top: 0;
+    list-style-type: none;
+    background-color: aqua;
+    display: none;
+}
+#h8:hover #m8{
+    display: block;
+}
+#h9{
+    position: relative;
+}
+#m9{
+    position: absolute;
+    left: 100%;
+    top: 0;
+    list-style-type: none;
+    background-color: aqua;
+    display: none;
+}
+#h9:hover #m9{
+    display: block;
+}
